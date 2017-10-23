@@ -1,0 +1,10 @@
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/bin/Debug/netcoreapp1.1/AuthenticationPractice.deps.json
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/bin/Debug/netcoreapp1.1/AuthenticationPractice.runtimeconfig.json
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/bin/Debug/netcoreapp1.1/AuthenticationPractice.runtimeconfig.dev.json
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/obj/Debug/netcoreapp1.1/AuthenticationPractice.AssemblyInfo.cs
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/bin/Debug/netcoreapp1.1/AuthenticationPractice.dll
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/bin/Debug/netcoreapp1.1/AuthenticationPractice.pdb
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/obj/Debug/netcoreapp1.1/AuthenticationPractice.dll
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/obj/Debug/netcoreapp1.1/AuthenticationPractice.pdb
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/obj/Debug/netcoreapp1.1/AuthenticationPractice.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/AuthenticationPractice/AuthenticationPractice/obj/Debug/netcoreapp1.1/AuthenticationPractice.csproj.CoreCompileInputs.cache

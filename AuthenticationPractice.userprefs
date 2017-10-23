@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{72F2445F-5E19-452D-8446-B5B5DC134DAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthenticationPractice/Views/ToDo/Create.cshtml">
+    <Files>
+      <File FileName="AuthenticationPractice/AuthenticationPractice.csproj" Line="1" Column="1" />
+      <File FileName="AuthenticationPractice/Models/ApplicationUser.cs" Line="3" Column="33" />
+      <File FileName="AuthenticationPractice/Models/ApplicationDbContext.cs" Line="14" Column="47" />
+      <File FileName="AuthenticationPractice/appsettings.json" Line="3" Column="85" />
+      <File FileName="AuthenticationPractice/Startup.cs" Line="21" Column="10" />
+      <File FileName="AuthenticationPractice/Program.cs" Line="1" Column="1" />
+      <File FileName="AuthenticationPractice/Controllers/AccountController.cs" Line="76" Column="46" />
+      <File FileName="AuthenticationPractice/Views/Account/Index.cshtml" Line="24" Column="72" />
+      <File FileName="AuthenticationPractice/Views/Shared/_Layout.cshtml" Line="6" Column="1" />
+      <File FileName="AuthenticationPractice/ViewModels/RegisterViewModel.cs" Line="24" Column="1" />
+      <File FileName="AuthenticationPractice/Views/Account/Register.cshtml" Line="24" Column="2" />
+      <File FileName="AuthenticationPractice/ViewModels/LoginViewModel.cs" Line="8" Column="2" />
+      <File FileName="AuthenticationPractice/Views/Account/Login.cshtml" Line="1" Column="1" />
+      <File FileName="AuthenticationPractice/Models/Item.cs" Line="14" Column="2" />
+      <File FileName="AuthenticationPractice/Controllers/ToDoController.cs" Line="40" Column="46" />
+      <File FileName="AuthenticationPractice/Views/ToDo/Index.cshtml" Line="10" Column="41" />
+      <File FileName="AuthenticationPractice/Views/ToDo/Create.cshtml" Line="6" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AuthenticationPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
